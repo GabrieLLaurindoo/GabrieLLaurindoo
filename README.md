@@ -4,6 +4,8 @@
   <a href="https://beacons.ai/gabriellaurindo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrieLLaurindoo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieLLaurindoo&layout=compact&langs_count=16&theme=dark"/>
+    <img align="right" alt="Gab-yoda" height="270" width="240" src="https://pngimg.com/uploads/yoda/yoda_PNG26.png">
+    
 </div>
 </div>
 <div style="display: inline_block"><br>
@@ -19,7 +21,6 @@
     <img align="center" alt="Gab-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
   <img align="center" alt="Gab-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
   <img align="center" alt="Gab-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Gab-yoda" height="290" width="240" src="https://pngimg.com/uploads/yoda/yoda_PNG26.png">
 </div>
 
 ## 
