@@ -4,7 +4,7 @@
   <a href="https://beacons.ai/gabriellaurindo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrieLLaurindoo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieLLaurindoo&layout=compact&langs_count=16&theme=dark"/>
-    <img align="right" alt="Gab-yoda" height="270" width="240" src="https://pngimg.com/uploads/yoda/yoda_PNG26.png">
+    <img align="right" alt="Gab-yoda" height="240" width="240" src="https://pngimg.com/uploads/yoda/yoda_PNG26.png">
     
 </div>
 </div>
